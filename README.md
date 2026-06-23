@@ -1,0 +1,1 @@
+# Drought-Severity-Mapping-using-Vegetation-Condition-Index-VCI-
